@@ -19,7 +19,7 @@ caused the US treasury bond to plummet.
 ![image](https://github.com/juho-creator/Investing/assets/72856990/dc111ae4-2372-4523-9337-55652da58640)
 </br>
 - Fortunately, the CPI came down from its peak of 9.1% down to 3.5%.
-- However, with the US CPI rising to 3.5%, there are concerns on FED raising interest rates to reach its target CPI of 2%.
+- However, with the US CPI rising to 3.5% in 2024, there are concerns on FED raising interest rates to reach its target CPI of 2%.
 </br></br></br></br>
 
 
@@ -32,7 +32,7 @@ Hence every 1% change in interest rate would cause TLT price change of 16.7%. Co
 I see this as an opportunity that will not happen very often.
 - Even if the interest rate were to rise, dividend of TLT would increase as well. Hence, since I'm planning to wait until interest comes down,
   I'll just be getting more dividend in the process of waiting.
-  
+- The US treasury bond has a trustworthy high credit rating of AAA~AA+,
 
 
 </br>
@@ -44,3 +44,4 @@ I see this as an opportunity that will not happen very often.
 - [Federal Funds Target Range](https://fred.stlouisfed.org/series/DFEDTARU)
 - [USDKRW currency exchange rate](https://www.investing.com/currencies/usd-krw)
 - [Bank Of Korea base interest rate](https://www.bok.or.kr/portal/singl/baseRate/progress.do?dataSeCd=01&menuNo=200656)
+- [US Credit Rating](https://www.worldgovernmentbonds.com/credit-rating/united-states/#google_vignette)

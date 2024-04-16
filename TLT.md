@@ -43,5 +43,7 @@ I see this as an opportunity that will not happen very often.
 - [Overview of TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf#/)
 - [Federal Funds Target Range](https://fred.stlouisfed.org/series/DFEDTARU)
 - [USDKRW currency exchange rate](https://www.investing.com/currencies/usd-krw)
-- [Bank Of Korea base interest rate](https://www.bok.or.kr/portal/singl/baseRate/progress.do?dataSeCd=01&menuNo=200656)
+- [Bank Of Korea base rate](https://www.bok.or.kr/portal/singl/baseRate/progress.do?dataSeCd=01&menuNo=200656)
 - [US Credit Rating](https://www.worldgovernmentbonds.com/credit-rating/united-states/#google_vignette)
+- [Is TLT ETF a Good bet for the long run?](https://www.investopedia.com/articles/investing/031915/overview-tlt-etf.asp)
+- [What economic goals does the Federal Reserve seek to achieve through its monetary policy?](https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm)

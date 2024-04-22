@@ -47,3 +47,5 @@ I see this as an opportunity that will not happen very often.
 - [US Credit Rating](https://www.worldgovernmentbonds.com/credit-rating/united-states/#google_vignette)
 - [Is TLT ETF a Good bet for the long run?](https://www.investopedia.com/articles/investing/031915/overview-tlt-etf.asp)
 - [What economic goals does the Federal Reserve seek to achieve through its monetary policy?](https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm)
+- [MAJOR FOREIGN HOLDERS OF TREASURY SECURITIES](https://ticdata.treasury.gov/Publish/mfh.txt)
+- [Bond Market Risk to reward ratio](https://www.bloomberg.com/news/articles/2023-10-12/dreams-of-big-treasury-gains-backfire-with-10-billion-etf-loss?utm_medium=cpc_search&utm_campaign=NB_ENG_DSAXX_DSAXXXXXXXXXX_EVG_XXXX_XXX_Y0469_EN_EN_X_BLOM_GO_SE_XXX_XXXXXXXXXX&gad_source=2&gclid=EAIaIQobChMIypzTms7VhQMVgNoWBR1CQQCdEAAYASABEgJvFPD_BwE&gclsrc=aw.ds)

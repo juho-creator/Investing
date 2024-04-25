@@ -6,3 +6,4 @@
 
 # Economic Analysis
 - [Interest rate difference and foreign exchange Rate](https://github.com/juho-creator/Investing/blob/main/Interest-Rate-Foreign-exchange.md)
+- [US interest rate on foreign investors](https://github.com/juho-creator/Investing/blob/main/interest-rate-foreign-investor.md)

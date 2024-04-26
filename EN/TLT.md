@@ -1,3 +1,6 @@
+[![Return to mainpage](https://img.shields.io/badge/Return_to_mainpage-blueviolet.svg)](https://github.com/juho-creator/Investing)
+
+
 # Investing in TLT
 ![image](https://github.com/juho-creator/Investing/assets/72856990/01bb7d73-0b76-4215-8832-c405b41450e5)
 </br>

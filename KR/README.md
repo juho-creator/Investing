@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/investing/blob/main/README.md)
+
+
 # 투자하기
 - [미국 국채 투자하기 (2024년 4월 15일)](https://github.com/juho-creator/Investing/blob/main/TLT.md)
 </br>

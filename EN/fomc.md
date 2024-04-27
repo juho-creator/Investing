@@ -1,13 +1,13 @@
-[![메인페이지로 돌아가기](https://img.shields.io/badge/-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
+[![Return to mainpage](https://img.shields.io/badge/Return_to_mainpage-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/EN/README.md)
 
 
 # Federal Open Market Committee (FOMC)
 ![image](https://github.com/juho-creator/Investing/assets/72856990/6152cadf-cf1a-4be2-904f-bdbda2e27c36)
 
-- **베이지북**: Beige Book
-- **성명서**: Statement
-- **의사록**: Minutes
-- **점 도표** : 연준 위원들의 기준금리 전망 (Projection Materials에서 확인 가능)
+- **Beige Book**: The Beige Book is a Federal Reserve report published every eight weeks, summarizing economic conditions across the U.S. based on data from its 12 districts, serving as a reference for monetary policy decisions.
+- **Statement**: The FOMC Statement, released after committee meetings, evaluates the current economic situation and outlines future monetary policy directions, acting as a crucial guide for investors.
+- **Minutes**: The FOMC Minutes offer a detailed account of meeting discussions, revealing insights into monetary policy decisions and rationales, and are published three weeks post-meeting to deepen market understanding of the central bank's policy.
+- **Dot plot** : Interest rate projection from FOMC members (Found at Projection Materials)
 </br></br>
 
 

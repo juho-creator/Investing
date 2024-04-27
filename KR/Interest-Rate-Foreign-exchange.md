@@ -1,3 +1,6 @@
+[![메인페이지로 돌아가기](https://img.shields.io/badge/메인페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
+
+
 # 기준금리 차이와 환율의 연관성 
 
 환율은 화폐의 상대적인 가치이다.

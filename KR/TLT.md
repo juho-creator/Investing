@@ -1,4 +1,4 @@
-[![메인페이지로 돌아가기](https://img.shields.io/badge/Return_to_mainpage-blueviolet.svg)](https://github.com/juho-creator/Investing)
+[![메인페이지로 돌아가기](https://img.shields.io/badge/메인페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
 
 
 # TLT 투자

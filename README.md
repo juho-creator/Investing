@@ -11,3 +11,4 @@
 - [Interest rate difference and foreign exchange Rate](https://github.com/juho-creator/Investing/blob/main/EN/Interest-Rate-Foreign-exchange.md)
 - [US interest rate on foreign investors](https://github.com/juho-creator/Investing/blob/main/EN/interest-rate-foreign-investor.md)
 - [FOMC Meeting](https://github.com/juho-creator/Investing/blob/main/EN/fomc.md)
+- [Nominal Wage vs Real Wage](https://github.com/juho-creator/Investing/blob/main/EN/wage.md)

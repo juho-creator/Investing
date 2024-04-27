@@ -2,10 +2,10 @@
 
 
 # 투자하기
-- [미국 국채 투자하기 (2024년 4월 15일)](https://github.com/juho-creator/Investing/blob/main/TLT.md)
+- [미국 국채 투자하기 (2024년 4월 15일)](https://github.com/juho-creator/Investing/blob/main/KR/TLT.md)
 </br>
 
 # 경제 분석
-- [이자율 차이와 외환율](https://github.com/juho-creator/Investing/blob/main/KR/Interest-Rate-Foreign-exchange.md)
-- [외국인 투자자에 대한 미국의 이자율](https://github.com/juho-creator/Investing/blob/main/KR/interest-rate-foreign-investor.md)
+- [기준금리 차이와 환율](https://github.com/juho-creator/Investing/blob/main/KR/Interest-Rate-Foreign-exchange.md)
+- [기준금리가 외국인 투자자들에게 미치는 영향](https://github.com/juho-creator/Investing/blob/main/KR/interest-rate-foreign-investor.md)
 - [FOMC 회의](https://github.com/juho-creator/Investing/blob/main/KR/fomc.md)

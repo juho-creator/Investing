@@ -1,4 +1,4 @@
-[![Return to mainpage](https://img.shields.io/badge/Return_to_mainpage-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/EN/README.md)
+[![Return to mainpage](https://img.shields.io/badge/Return_to_mainpage-blueviolet.svg)](https://github.com/juho-creator/Investing/tree/main)
 
 
 # Federal Open Market Committee (FOMC)

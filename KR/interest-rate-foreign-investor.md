@@ -1,3 +1,6 @@
+[![메인페이지로 돌아가기](https://img.shields.io/badge/메인페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
+
+
 # 시장을 볼 때
 1. 미국의 고용지표, 금리,
 물가 지표를 주의해서 본다

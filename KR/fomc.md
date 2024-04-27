@@ -7,8 +7,12 @@
 - **베이지북**: Beige Book
 - **성명서**: Statement
 - **의사록**: Minutes
+- **점 도표** : 연준 위원들의 기준금리 전망 (Projection Materials에서 확인 가능)
 </br></br>
+
+
+
 
 ## Reference 
 - [Beige Book](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)
-- [Statement & Minutes](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
+- [Statement, Minutes,](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)

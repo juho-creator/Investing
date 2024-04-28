@@ -12,3 +12,4 @@
 - [US interest rate on foreign investors](https://github.com/juho-creator/Investing/blob/main/EN/interest-rate-foreign-investor.md)
 - [FOMC Meeting](https://github.com/juho-creator/Investing/blob/main/EN/fomc.md)
 - [Nominal Wage vs Real Wage](https://github.com/juho-creator/Investing/blob/main/EN/wage.md)
+- [The hidden secret behind financial report](https://github.com/juho-creator/Investing/blob/main/EN/financial_report.md)

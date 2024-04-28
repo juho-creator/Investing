@@ -10,3 +10,4 @@
 - [기준금리가 외국인 투자자들에게 미치는 영향](https://github.com/juho-creator/Investing/blob/main/KR/interest-rate-foreign-investor.md)
 - [FOMC 회의](https://github.com/juho-creator/Investing/blob/main/KR/fomc.md)
 - [명목임금 vs 실질임금](https://github.com/juho-creator/Investing/blob/main/KR/wage.md)
+- [기저효과와 보복소비](https://github.com/juho-creator/Investing/blob/main/KR/Base_effect_and_pentup_demand.md)

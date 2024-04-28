@@ -11,3 +11,4 @@
 - [FOMC 회의](https://github.com/juho-creator/Investing/blob/main/KR/fomc.md)
 - [명목임금 vs 실질임금](https://github.com/juho-creator/Investing/blob/main/KR/wage.md)
 - [기저효과와 보복소비](https://github.com/juho-creator/Investing/blob/main/KR/Base_effect_and_pentup_demand.md)
+- [증권사 리포트의 비밀](https://github.com/juho-creator/Investing/blob/main/KR/financial_report.md)

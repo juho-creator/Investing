@@ -9,7 +9,7 @@
 </br></br></br></br>
 
 
-# The Negative Impact of Inflation
+### Example of bad inflation 
 ![image](https://github.com/juho-creator/Investing/assets/72856990/4681b04a-1031-46ef-9e42-ce965dd58d91)
 </br>
 The profit of a company which is calculated via excluding costs from a company's revenue, is returned to shareholders as dividends. </br>
@@ -37,7 +37,7 @@ Deflation reduces investments from companies significantly.
 
 
 
-### Example
+### Example of bad deflation
 ![image](https://github.com/juho-creator/Investing/assets/72856990/f3535573-6630-464f-8f82-daabb1d9dd11)
 </br>
 Let's assume you bought an apartment for 1 billion won using 300 million of your own money and 700 million in loans.

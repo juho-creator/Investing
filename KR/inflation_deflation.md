@@ -38,8 +38,7 @@ OPEC (산유국)은 달러가치 하락에 대응하기 위해 원유 공급 제
 
 
 
-
-# 디플레이션으로 인한 악순환
+### 예시
 ![image](https://github.com/juho-creator/Investing/assets/72856990/f3535573-6630-464f-8f82-daabb1d9dd11)
 </br>
 3억 (내 돈) + 7억 (대출)을 해서 10억 아파트를 매매했다고 가정하자.
@@ -58,6 +57,7 @@ OPEC (산유국)은 달러가치 하락에 대응하기 위해 원유 공급 제
 
 
 # 참고자료
-[인플레이션과 디플레이션](https://www.youtube.com/watch?v=BWJS53P6ahk&list=PLVqMGO221VG-khIbLCEtpYYVy8iCVSNJI&index=12)
-
+- [인플레이션과 디플레이션](https://www.youtube.com/watch?v=BWJS53P6ahk&list=PLVqMGO221VG-khIbLCEtpYYVy8iCVSNJI&index=12)
+- [디플레이션의 악순환](https://www.investopedia.com/terms/d/deflationary-spiral.asp#:~:text=A%20deflationary%20spiral%20is%20when,to%20default%20on%20debt%20obligations.)
+- [경기 위축](https://www.investopedia.com/terms/c/contraction.asp)
 

@@ -13,3 +13,4 @@
 - [FOMC Meeting](https://github.com/juho-creator/Investing/blob/main/EN/fomc.md)
 - [Nominal Wage vs Real Wage](https://github.com/juho-creator/Investing/blob/main/EN/wage.md)
 - [The hidden secret behind financial report](https://github.com/juho-creator/Investing/blob/main/EN/financial_report.md)
+- [Inflation and Deflation](https://github.com/juho-creator/Investing/blob/main/EN/inflation_deflation.md)

@@ -1,4 +1,4 @@
-[![Go back to the main page](https://img.shields.io/badge/Go_back_to_the_main_page-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
+[![Go back to the main page](https://img.shields.io/badge/Go_back_to_the_main_page-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/README.md)
 
 # The Relationship Between Interest Rate Differentials and Exchange Rates
 

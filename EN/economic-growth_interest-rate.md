@@ -30,4 +30,5 @@ Hence to better understand stock market trends, it's crucial to consider economi
 
 # Reference
 - [Impact of Economic Growth and Interest Rates on the Stock Market](https://www.youtube.com/watch?v=RazNP3M2SPM&list=PLl2h7tHtrGhyKkVi9rYAhkNu3Q_pLSUml&index=14)
+- [What is the 911 attacks?](https://www.britannica.com/event/September-11-attacks)
 

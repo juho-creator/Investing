@@ -1,6 +1,6 @@
 [![Go back to the main page](https://img.shields.io/badge/Go_back_to_the_main_page-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/README.md)
 
-# The Relationship Between Interest Rate Differentials and Exchange Rates
+# Relationship Between Interest Rate Differentials and Exchange Rates
 
 Exchange rates represent the relative value of currencies.
 When a country raises its base interest rate, the supply of that country's currency decreases, leading to an increase in the value of its currency.

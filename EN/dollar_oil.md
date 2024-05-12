@@ -45,6 +45,9 @@ This fixed currency for oil trading is what stablizes the valuation of the US do
 - [What is the US dollar?](https://www.investopedia.com/terms/forex/u/usd-united-states-dollar.asp)
 - [What is the USD Index?](https://www.investopedia.com/terms/u/usdx.asp)
 - [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp)
+- [Devaluation of USD relative to gold](https://en.wikipedia.org/wiki/Bretton_Woods_system)
 - [Purchasing Power of the U.S. Dollar Over Time](https://www.visualcapitalist.com/purchasing-power-of-the-u-s-dollar-over-time/)
 - [Nominal USD](https://fred.stlouisfed.org/series/DTWEXBGS)
+- [What is petroleum?](https://en.wikipedia.org/wiki/Petroleum)
+- [Petroleum Market](https://oilprice.com/)
 

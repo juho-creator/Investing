@@ -15,3 +15,5 @@
 - [The hidden secret behind financial report](https://github.com/juho-creator/Investing/blob/main/EN/financial_report.md)
 - [Impact of Economic Growth and Interest Rates on the Stock Market
 ](https://github.com/juho-creator/Investing/blob/main/EN/economic-growth_interest-rate.md)
+- [Relationship between US Dollar and Crude Oil
+](https://github.com/juho-creator/Investing/blob/main/EN/dollar_oil.md)

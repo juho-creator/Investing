@@ -1,4 +1,4 @@
-[![메인 페이지로 돌아가기](https://img.shields.io/badge/메인_페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/README.md)
+[![메인 페이지로 돌아가기](https://img.shields.io/badge/메인_페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
 
 # 경제 성장과 금리가 주식 시장에 미치는 영향
 금리와 주식 시장 간의 관계는 직접적이거나 단순하지 않습니다. </br>

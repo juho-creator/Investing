@@ -13,3 +13,4 @@
 - [기저효과와 보복소비](https://github.com/juho-creator/Investing/blob/main/KR/Base_effect_and_pentup_demand.md)
 - [증권사 리포트의 비밀](https://github.com/juho-creator/Investing/blob/main/KR/financial_report.md)
 - [인플레이션과 디플레이션](https://github.com/juho-creator/Investing/blob/main/KR/inflation_deflation.md)
+- [달러와 원유의 상관관계](https://github.com/juho-creator/Investing/blob/main/KR/dollar_oil.md)

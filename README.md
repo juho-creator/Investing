@@ -18,3 +18,4 @@
 - [Relationship between US Dollar and Crude Oil
 ](https://github.com/juho-creator/Investing/blob/main/EN/dollar_oil.md)
 - Fear[ & Greed difference and Kimchi Premium](https://github.com/juho-creator/Investing/blob/main/EN/kimchi-premium.md)
+- Buying at high price level on illiquid market for pump and dump

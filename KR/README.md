@@ -15,5 +15,5 @@
 - [인플레이션과 디플레이션](https://github.com/juho-creator/Investing/blob/main/KR/inflation_deflation.md)
 - [경제성장과 기준금리가 주식시장에 미치는 영향](https://github.com/juho-creator/Investing/blob/main/KR/economic-growth_interest-rate.md)
 - [달러와 원유의 상관관계](https://github.com/juho-creator/Investing/blob/main/KR/dollar_oil.md)
-
+- 사모펀드의 자진상폐
 

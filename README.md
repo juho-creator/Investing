@@ -18,4 +18,9 @@
 - [Relationship between US Dollar and Crude Oil
 ](https://github.com/juho-creator/Investing/blob/main/EN/dollar_oil.md)
 - Fear[ & Greed difference and Kimchi Premium](https://github.com/juho-creator/Investing/blob/main/EN/kimchi-premium.md)
+- Era of Weak Dollar and Low Oil Prices
 - Buying at high price level on illiquid market for pump and dump
+- Voluntary delisting of private equity funds
+- Volatility drag effect (derivatives, futures, options, ETFs)
+- Impact of benchmark interest rates on bank stock prices and dividends
+- Post office insurance and financial services

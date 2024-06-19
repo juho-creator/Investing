@@ -15,6 +15,8 @@
 - [인플레이션과 디플레이션](https://github.com/juho-creator/Investing/blob/main/KR/inflation_deflation.md)
 - [경제성장과 기준금리가 주식시장에 미치는 영향](https://github.com/juho-creator/Investing/blob/main/KR/economic-growth_interest-rate.md)
 - [달러와 원유의 상관관계](https://github.com/juho-creator/Investing/blob/main/KR/dollar_oil.md)
+- 공포탐욕지수 차이와 김치프리미엄
+- 유동성이 낮은 시장에서 펌프 앤 덤프를 위해 높은 가격에서 매수하기
 - 사모펀드의 자진상폐
 - 변동성 끌림 현상 (파생상품,선물,옵션,ETF)
 - 기준금리가 은행주의 주가와 배당금에 미치는 영향

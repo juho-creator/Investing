@@ -1,3 +1,6 @@
+# 금융공학의 이해
+
+
 # 금융거래
 ### 1. 현재 시점에 거래
 ![image](https://github.com/juho-creator/Investing/assets/72856990/b38511ea-6db0-4ea9-bf6e-c1f574be1a8d)
@@ -16,8 +19,23 @@
 </br> **예시**: Forward 거래, payoff diagram
 </br></br></br></br>
 
+
+# Fowward 거래 (권리 + 의무)
+서로 매수/매도 가격을 동의하여 미래 특정 어떤 시점에 진행되는 거래
+- long (buy)
+- short (sell)
+
+# payoff diagram 
+손익을 나타내는 그래프>
+
+
+# Options (권리, 의무 X)
+
+
+
+  
 # 옵션과 포지션
-![image](https://github.com/juho-creator/Investing/assets/72856990/56215bc7-1b3b-499a-9716-d1fb1a6898c1)
+![image](https://github.com/juho-creator/Investing/assets/72856990/1467aabc-8aa3-489b-9778-97556e342e68)
 - **St** : 미래 특정 만기 시점 가격
 - **k (선도 가격)** : 매수/매도하기로 한 가격
 
@@ -29,8 +47,9 @@
 
 
 ![image](https://github.com/juho-creator/Investing/assets/72856990/56b5a7b4-1af7-46fe-a9fd-0f97f5d7e91d)
- 권리를 가진 long 포지션은 의무가 있는 short 포지션에게 k만큼의 금액을 준다.</br>
- 따라서 long 포지션의 최악의 경우 본전이 아닌 k만큼의 돈을 잃게 된다.
+</br>
+롱 포지션은 k만큼의 금액을 숏 포지션에게 줌으로써 매도할 수 있는 권리를 소유하게 된다.</br>
+따라서 long 포지션의 최악의 경우 본전이 아닌 k만큼의 돈을 잃게 된다.
 </br></br>
 
 
@@ -40,11 +59,23 @@
 </br></br></br></br>
 
 ![image](https://github.com/juho-creator/Investing/assets/72856990/9c67d8a8-7614-42be-87c9-6a9e81e5c8c0)
+</br>
  권리를 가진 숏 포지션은 의무가 있는 롱 포지션에게 k만큼의 금액을 준다.</br>
  따라서 long 포지션의 최악의 경우 본전이 아닌 k만큼의 돈을 잃게 된다.
 
 
+### Forward 계약 
+</br>
+서로 돈을 주고 받지 않기 때문에 매수/매도자가 없다.
+- long : 미래에 돈을 주기로한 사람
+- short : 미래에 돈을 받기로한 사람
+</br></br></br></br>
 
+
+### Option 계약
+- **long** : 권리를 산 사람 (고정된 걸 줌, 변화된 것을 받음)
+- **short** : 권리를 팔아서 의무를 진 사람 (변화된 것을 줌, 고정된 것을 받음)
+ 
 
 
 

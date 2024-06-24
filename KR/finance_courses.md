@@ -1,82 +1,11 @@
 # 금융공학의 이해
-
-
-# 금융거래
-### 1. 현재 시점에 거래
-![image](https://github.com/juho-creator/Investing/assets/72856990/b38511ea-6db0-4ea9-bf6e-c1f574be1a8d)
-
-
-### 2. 현재 상품 판매 후 미래에 거래금 받음
-![image](https://github.com/juho-creator/Investing/assets/72856990/4eefa32a-2ce3-4323-911d-ef083b287a21)
-
-
-### 3. 현재 거래금 받고 미래에 상품 판매
-![image](https://github.com/juho-creator/Investing/assets/72856990/25fc011c-d62e-468a-bbdf-7768248e8bf8)
-
-
-### 4. 현재 거래하지 않고 미래에 거래 진행
-![image](https://github.com/juho-creator/Investing/assets/72856990/463c0859-c609-48d5-b8d7-494b904dfff3)
-</br> **예시**: Forward 거래, payoff diagram
-</br></br></br></br>
-
-
-# Fowward 거래 (권리 + 의무)
-서로 매수/매도 가격을 동의하여 미래 특정 어떤 시점에 진행되는 거래
-- long (buy)
-- short (sell)
-
-# payoff diagram 
-손익을 나타내는 그래프>
-
-
-# Options (권리, 의무 X)
-
-
-
-  
-# 옵션과 포지션
-![image](https://github.com/juho-creator/Investing/assets/72856990/1467aabc-8aa3-489b-9778-97556e342e68)
-- **St** : 미래 특정 만기 시점 가격
-- **k (선도 가격)** : 매수/매도하기로 한 가격
-
-- **Long** : 고정된 가격 k를 준다  (k 기준: 의무: put option vs 권리: Call option)
-- **Short** : 고정된 가격 k를 받는다 (k 기준: 권리: put option vs 의무: Call option)
- k 라는 가격으로 매수할 수 있는 권리 </br>
-</br></br></br></br>
-
-
-
-![image](https://github.com/juho-creator/Investing/assets/72856990/56b5a7b4-1af7-46fe-a9fd-0f97f5d7e91d)
-</br>
-롱 포지션은 k만큼의 금액을 숏 포지션에게 줌으로써 매도할 수 있는 권리를 소유하게 된다.</br>
-따라서 long 포지션의 최악의 경우 본전이 아닌 k만큼의 돈을 잃게 된다.
-</br></br>
-
-
-숏 포지션이 맞으면 옵션 가격만큼 벌게 된다. </br>
-가격이 상승하면 무한이 많은 손실을 입게된다.
-헷지만 잘하면 손해를 보지 않고 숏 포지션을 잡을 수 있다.
-</br></br></br></br>
-
-![image](https://github.com/juho-creator/Investing/assets/72856990/9c67d8a8-7614-42be-87c9-6a9e81e5c8c0)
-</br>
- 권리를 가진 숏 포지션은 의무가 있는 롱 포지션에게 k만큼의 금액을 준다.</br>
- 따라서 long 포지션의 최악의 경우 본전이 아닌 k만큼의 돈을 잃게 된다.
-
-
-### Forward 계약 
-</br>
-서로 돈을 주고 받지 않기 때문에 매수/매도자가 없다.
-- long : 미래에 돈을 주기로한 사람
-- short : 미래에 돈을 받기로한 사람
-</br></br></br></br>
-
-
-### Option 계약
-- **long** : 권리를 산 사람 (고정된 걸 줌, 변화된 것을 받음)
-- **short** : 권리를 팔아서 의무를 진 사람 (변화된 것을 줌, 고정된 것을 받음)
- 
-
-
-
+- [**금융거래**](https://github.com/juho-creator/Investing/blob/main/KR/%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98.md)
+- [**옵션과 포지션**](https://github.com/juho-creator/Investing/blob/main/KR/%EC%98%B5%EC%85%98%EA%B3%BC_%ED%8F%AC%EC%A7%80%EC%85%98.md)
+- [**The games**](https://github.com/juho-creator/Investing/blob/main/KR/The_game.md)
+- [**Pricing**](https://github.com/juho-creator/Investing/blob/main/KR/Pricing.md)
+-  [**CRR Intro**](https://github.com/juho-creator/Investing/blob/main/KR/CRR_Intro.md)
+-  [**CRR Basic idea**](https://github.com/juho-creator/Investing/blob/main/KR/CRR_Basic_idea.md)
+-  [**CRR Main**](https://github.com/juho-creator/Investing/blob/main/KR/CRR_Main.md)
+-  [**CRR one step binomial option pricing model**](https://github.com/juho-creator/Investing/blob/main/KR/CRR_Advanced.md)
+-  [**Put Call Parity**](https://github.com/juho-creator/Investing/blob/main/KR/Put_Call_Parity.md)
 

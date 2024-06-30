@@ -17,7 +17,7 @@
 ](https://github.com/juho-creator/Investing/blob/main/EN/economic-growth_interest-rate.md)
 - [Relationship between US Dollar and Crude Oil
 ](https://github.com/juho-creator/Investing/blob/main/EN/dollar_oil.md)
-- Fear[ & Greed difference and Kimchi Premium](https://github.com/juho-creator/Investing/blob/main/EN/kimchi-premium.md)
+- [Fear & Greed difference and Kimchi Premium](https://github.com/juho-creator/Investing/blob/main/EN/kimchi-premium.md)
 - Era of Weak Dollar and Low Oil Prices
 - Buying at high price level on illiquid market for pump and dump
 - Voluntary delisting of private equity funds

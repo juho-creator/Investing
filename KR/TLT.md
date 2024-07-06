@@ -51,7 +51,7 @@
 </br></br></br></br>
 
 
-# 참조자료
+# 참고자료
 - [미국 CPI](https://www.investing.com/economic-calendar/cpi-733)
 - [TLT 개요](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf#/)
 - [연방 기금 목표 범위](https://fred.stlouisfed.org/series/DFEDTARU)

@@ -1,7 +1,7 @@
 [![메인페이지로 돌아가기](https://img.shields.io/badge/메인페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing/blob/main/KR/README.md)
 
 
-# Federal Open Market Committee (FOMC)
+# 연방공개시장위원회 (FOMC)
 ![image](https://github.com/juho-creator/Investing/assets/72856990/6152cadf-cf1a-4be2-904f-bdbda2e27c36)
 
 - **베이지북**: Beige Book
@@ -13,6 +13,6 @@
 
 
 
-## Reference 
+## 참고자료 
 - [Beige Book](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)
 - [Statement, Minutes,](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)

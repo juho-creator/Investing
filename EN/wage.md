@@ -64,6 +64,6 @@ Conversely, if you borrow 100 million at a 3.5% interest rate, then the real int
 
 
 
-# Reference
+# References
 - [The Real Identity of Inflation](https://youtu.be/Pq4n61VE6QI?si=sC_XJECO98G_tbcg)
 - [Real and Nominal Interest Rates](https://www.youtube.com/watch?v=hFkMpXekCkc&t=11m20s)

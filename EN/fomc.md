@@ -13,6 +13,6 @@
 
 
 
-## Reference 
+## References 
 - [Beige Book](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)
 - [Statement, Minutes,](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)

@@ -71,5 +71,5 @@
 
 
 
-# 참고 자료
+# 참고자료
 - [미국 달러란 무엇인가?](https://www.investopedia.com/terms/forex/u/달러-united-states-dollar.asp)

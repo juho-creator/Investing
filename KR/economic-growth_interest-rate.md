@@ -25,6 +25,6 @@
 따라서 주식 시장 동향을 더 잘 이해하기 위해서는 경제 성장과 금리를 함께 고려하는 것이 중요하다는 것을 확인할 수 있다.
 </br></br></br>
 
-# 참고
+# 참고자료
 - [경제 성장과 금리가 주식 시장에 미치는 영향](https://www.youtube.com/watch?v=RazNP3M2SPM&list=PLl2h7tHtrGhyKkVi9rYAhkNu3Q_pLSUml&index=14)
 - [911테러란?](https://www.britannica.com/event/September-11-attacks)

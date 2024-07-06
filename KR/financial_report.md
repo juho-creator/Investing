@@ -74,7 +74,7 @@
 </br></br>
 
 
-# 참고문헌
+# 참고자료
 [증권사 리포트의 비밀
 ](https://www.youtube.com/watch?v=inCz42wMJqc)
 

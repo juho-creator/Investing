@@ -2,9 +2,18 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
 [![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
 
+</br>
+
+> [!CAUTION]
+> **Only applies to European options, where the rights can only be exercised after expiration date**
+
+</br>
+
+
 Price of a call option implies a specific fair price for the corresponding put option with the **same underlying asset, strike price, and expiration date**, and vice versa. If market prices diverge from this relationship, it signals a mispricing that shrewd traders know to exploit for profit. </br>
-![image](https://github.com/user-attachments/assets/ce7de01d-349c-4152-9631-31236ce87793)
-* Only applies to European options, where the rights can only be exercised after expiration date. </br></br></br>
+- **strike price** : Price at which the option can be bought or sold after expiration date
+
+ </br></br></br>
   
 $$ C+PV(x)=P+S $$
 
@@ -18,12 +27,10 @@ date at the risk-free rate
 of the underlying asset
 </br></br></br>
 
-# What exactly is the strike price? 
-Price at which the option can be bought or sold after expiration date
-​</br></br></br>
 
 
-# Example of Put Call Parity Arbitrage using bonds (Unable to execute at mock account)
+# Put Call Parity Arbitrage
+## Using bonds (Unable to execute at mock account)
 - Price of XYZ stock (S) = $50
 - Strike price of the options (x) = $55
 - Present value (PV) of x = $54.46
@@ -62,7 +69,7 @@ because the short stock position would cancel out the exercise of either the put
 </br></br>
 
 
-# Example of Put Call Parity Arbitrage using futures
+## Using futures
 ![image](https://github.com/user-attachments/assets/9e1727f2-daa2-4d00-afea-34c506ecc088)
 
 

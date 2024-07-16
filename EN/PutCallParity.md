@@ -1,5 +1,8 @@
 # Put Call Parity
-Price of a call option implies a specific fair price for the corresponding put option with the **same underlying asset, strike price, and expiration date**, and vice versa. If market prices diverge from this relationship, it signals a mispricing that shrewd traders know to exploit for profit.
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Investing/main/EN/PutCallParity.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Investing/main/KR/PutCallParity.md)
+
+Price of a call option implies a specific fair price for the corresponding put option with the **same underlying asset, strike price, and expiration date**, and vice versa. If market prices diverge from this relationship, it signals a mispricing that shrewd traders know to exploit for profit. </br>
 ![image](https://github.com/user-attachments/assets/ce7de01d-349c-4152-9631-31236ce87793)
 * Only applies to European options, where the rights can only be exercised after expiration date. </br></br></br>
   

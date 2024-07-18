@@ -66,12 +66,46 @@ Put > Call </br>
 
 At expiration, the arbitrageur would have a guaranteed profit of $0.54 ($57.46 - $57) 
 because the short stock position would cancel out the exercise of either the put or call option.
-</br></br>
+</br></br></br></br>
+
 
 
 ## Using futures
 ![image](https://github.com/user-attachments/assets/9e1727f2-daa2-4d00-afea-34c506ecc088)
 
+Let the strike price of the options and the expiration price of futures be $105 with the same expiration date. </br>
+
+**Scenario 1** : Futures price < $105 </br>
+If futures price is less than the strike price, 
+- Short 105 PUT : Profitable when exercised above the strike price.
+- Long 105 CALL : We don't want to sell lower from where we bought so we'll let it expire and option premium amount is lost.
+- Short Futures : Short futures expire, and expiration price of loss occurs
+
+The profit from put option outweighs the call option and futures, resulting in net profit.
+   
+</br></br>
+
+
+**Scenario 2** : Futures price > $105  </br>
+
+If futures price is greater than the strike price
+- Long 105 CALL :  
+
+- Short 105 PUT : 
+- Short Futures : (Expiration)
+
+The profit from put option outweighs the call option and futures, resulting in net profit.
+   
+</br></br>
+
+
+**Scenario 3** : Futures price = $105  </br>
+If futures price is equivalent than the strike price, the $6 gained from option premium covers up the loss from short futures expiring.
+- Short 105 PUT (Profitable)
+- Long 105 CALL (Loss)
+- Short Futures (Expiration)
+
+</br></br>
 
 ### Code flow
 1. Obtain price data
@@ -100,6 +134,7 @@ because the short stock position would cancel out the exercise of either the put
 
 ## Reference
 - [Put Call Parity Arbitrage with futures](https://www.cmegroup.com/education/courses/introduction-to-options/put-call-parity.html)
+- [CFA level (Put Call parity)](https://www.youtube.com/watch?v=SbkvkU7-dEA&ab_channel=PrepNuggets)
 
 
 

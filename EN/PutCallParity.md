@@ -1,6 +1,6 @@
 # Put Call Parity
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Investing/blob/main/KR/PutCallParity.md)
 
 </br>
 
@@ -89,8 +89,7 @@ The profit from put option outweighs the call option and futures, resulting in n
 **Scenario 2** : Futures price > $105  </br>
 
 If futures price is greater than the strike price
-- Long 105 CALL :  
-
+- Long 105 CALL : 
 - Short 105 PUT : 
 - Short Futures : (Expiration)
 

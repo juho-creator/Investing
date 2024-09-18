@@ -22,5 +22,5 @@
 - 변동성 끌림 현상 (파생상품,선물,옵션,ETF)
 - 기준금리가 은행주의 주가와 배당금에 미치는 영향
 - 우체국 보험 및 금융 서비스
-- 풋콜 페리티
+- [풋콜 페리티](https://github.com/juho-creator/Investing/blob/main/KR/PutCallParity.md)
 - 달러 약세와 저유가  

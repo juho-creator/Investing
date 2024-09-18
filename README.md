@@ -12,16 +12,20 @@
 - [US interest rate on foreign investors](https://github.com/juho-creator/Investing/blob/main/EN/interest-rate-foreign-investor.md)
 - [FOMC Meeting](https://github.com/juho-creator/Investing/blob/main/EN/fomc.md)
 - [Nominal Wage vs Real Wage](https://github.com/juho-creator/Investing/blob/main/EN/wage.md)
+- [Base effect and_pentup demand](https://github.com/juho-creator/Investing/blob/main/EN/Base_effect_and_pentup_demand.md)
 - [The hidden secret behind financial report](https://github.com/juho-creator/Investing/blob/main/EN/financial_report.md)
+- [Inflation & Deflation](https://github.com/juho-creator/Investing/blob/main/EN/inflation_deflation.md)
 - [Impact of Economic Growth and Interest Rates on the Stock Market
 ](https://github.com/juho-creator/Investing/blob/main/EN/economic-growth_interest-rate.md)
 - [Relationship between US Dollar and Crude Oil
 ](https://github.com/juho-creator/Investing/blob/main/EN/dollar_oil.md)
+- [Bonds](https://github.com/juho-creator/Investing/blob/main/EN/bond.md)
 - [Fear & Greed difference and Kimchi Premium](https://github.com/juho-creator/Investing/blob/main/EN/kimchi-premium.md)
-- [Put Call Parity](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
-- Era of Weak Dollar and Low Oil Prices
 - Buying at high price level on illiquid market for pump and dump
 - Voluntary delisting of private equity funds
 - Volatility drag effect (derivatives, futures, options, ETFs)
 - Impact of benchmark interest rates on bank stock prices and dividends
 - Post office insurance and financial services
+- [Put Call Parity](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
+- Era of Weak Dollar and Low Oil Prices
+  

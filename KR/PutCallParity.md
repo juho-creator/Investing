@@ -1,6 +1,6 @@
+[![Go back to the main page](https://img.shields.io/badge/메인페이지로_돌아가기-blueviolet.svg)](https://github.com/juho-creator/Investing)
+
 # 풋 콜 패리티
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
 
 </br>
 

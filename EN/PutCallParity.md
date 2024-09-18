@@ -1,6 +1,6 @@
 # Put Call Parity
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Investing/blob/main/EN/PutCallParity.md)
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Investing/blob/main/KR/PutCallParity.md)
+[![Go back to the main page](https://img.shields.io/badge/Go_back_to_the_main_page-blueviolet.svg)](https://github.com/juho-creator/Investing)
+
 
 </br>
 
